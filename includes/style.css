@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+}
+
+.list-group-item:hover {
+    cursor: pointer;
+}
+
+.speech {
+    text-align: center;
+}
+
+#present {
+    margin: 10px;
+}
